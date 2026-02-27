@@ -1,3 +1,13 @@
+
+
+
+# My publication: 
+**Transformer-Based Models for Predicting High-Risk Diabetes in Women Using Tabular Data**
+
+Diabetes can lead to several long-term severe health complications; more than 199 million women are affected by diabetes, with projections indicating a rise to 313 million by 2040. Feature Tokenizer Transformer (FT-Transformer) is proposed to predict diabetes in 1858 women and evaluate its performance with Tabnet, XGboost, RF, and LR. SHAP and LIME methods are used for interpreting FT-Transformer’s performance. FT - Transformer achieved 93.54%, RF (97.31%), XGboost and Tabnet (96.5%), LR (77.42%). FT - Transformer costs more computationally than others; however, it can potentially apply for disease prediction and classification with features containing (text, image, and tabular data) in the medical field. Through SHAP and LIMEthod, an interactive relationship between glucose and pregnancy features in contributing to diabetes prediction was found; glucose is the most predictor of diabetes.
+
+**Tho, N.,** Nguyen, QT., Duc, T.K., Koehl, L., Phuc, T.K. (2026). Transformer-Based Models for Predicting High-Risk Diabetes in Women Using Tabular Data. In: Thomassey, S., Tran, KP., Vanderhaegen, F., Choi, TM. (eds) Responsible Artificial Intelligence and Data Science. RAIDS 2024. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 673. Springer, Cham. https://doi.org/10.1007/978-3-032-14055-5_6
+
 # FT-Transformer for Diabetes Classification
 
 A PyTorch implementation of the **Feature Tokenizer + Transformer (FT-Transformer)** for binary diabetes classification on the Frankfurt Diabetes dataset, with full comparison against five classical and modern baselines.
